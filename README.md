@@ -99,7 +99,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```bash
-  cd math-magicians
+  cd math-magiciansa
   git clone https://github.com/maximoortelli/Math-magicians.git
 ```
 
