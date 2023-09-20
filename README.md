@@ -35,7 +35,8 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-**Math Magicians** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+**Math Magicians** is a project that allows me to showcase my web development skills and expertise in React and UI/UX design. With a focus on engaging interfaces, I demonstrate proficiency in various aspects including wireframing, component creation, event handling, and API integration. The project embodies intuitive design principles and seamless functionality, delivering a captivating user experience.
+It is a Single Page App (SPA) that allows users to:
 
 - Make simple calculations.
 - Read a random math-related quote.
@@ -77,6 +78,14 @@
 ### Key Features <a name="key-features"></a>
 
 - **SPA website**
+- **React configuration**
+- **HTML Generation**
+- **CSS Styling**
+- **Development Server**
+- **Code Quality**
+- **Modular Structure**
+- **JavaScript Functionality**
+- **Gitflow**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +95,8 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps.
+> This project requires Node.js and npm installed on your machine.
 
 ### Prerequisites
 
