@@ -38,15 +38,15 @@ function Calculator() {
       <Display value={displayValue} />
       <div className="myRow">
         <Button value="AC" type="clear" />
-        <Button value="+/-" />
+        <Button value="+ /-" />
         <Button value="%" />
-        <Button value="/" type="operator" />
+        <Button value="÷" type="operator" />
       </div>
       <div className="myRow">
-        <Button value="1" />
-        <Button value="2" />
-        <Button value="3" />
-        <Button value="+" type="operator" />
+        <Button value="7" />
+        <Button value="8" />
+        <Button value="9" />
+        <Button value="X" type="operator" />
       </div>
       <div className="myRow">
         <Button value="4" />
@@ -55,10 +55,10 @@ function Calculator() {
         <Button value="-" type="operator" />
       </div>
       <div className="myRow">
-        <Button value="7" />
-        <Button value="8" />
-        <Button value="9" />
-        <Button value="x" type="operator" />
+        <Button value="1" />
+        <Button value="2" />
+        <Button value="3" />
+        <Button value="+" type="operator" />
       </div>
       <div className="myRow">
         <Button value="0" type="cero" />
