@@ -1,0 +1,17 @@
+.title {
+  color: #e4e6eb;
+  justify-content: center;
+  text-align: center;
+  font-size: 40px;
+  margin-top: -20vh;
+}
+
+.Paragraph-content {
+  width: 40%;
+  font-size: 18px;
+  padding-top: -5vh;
+  padding-bottom: 2vh;
+  text-align: center;
+  margin: auto;
+  color: #e4e6eb;
+}
