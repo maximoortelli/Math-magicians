@@ -1,0 +1,18 @@
+.loading {
+  color: #E4E6EB;
+  text-align: center;
+  justify-content: center;
+  margin: 200px 70px 20px 70px;
+  font-size: 20px;
+
+  font-weight: bold;
+}
+
+.quote {
+  color: #E4E6EB;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  margin: 20%;
+  font-size: 20px;
+}
