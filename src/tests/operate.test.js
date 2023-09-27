@@ -1,4 +1,5 @@
 import operate from '../logic/operate';
+
 test('addition works correctly', () => {
   expect(operate('1', '2', '+')).toBe('3');
 });
@@ -27,9 +28,3 @@ test('unknown operation error', () => {
     new Error("Unknown operation '**'"),
   );
 });
-
-
-
-
-
-
