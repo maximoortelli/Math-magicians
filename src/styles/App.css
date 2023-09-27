@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  background-color: #1C1C1C;
+  background-color: #1c1c1c;
 }
 
 .App-header {
-  color: #ffffff;
+  color: #fff;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -18,7 +18,7 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  background-color: #4D4D4D;
+  background-color: #4d4d4d;
   box-shadow: 0 4px 8px rgba(255, 255, 255, 0.3);
   width: 100%;
 }
@@ -42,10 +42,10 @@ body {
 .nav-link {
   margin-left: 20px;
   text-decoration: none;
-  color: #E4E6EB;
+  color: #e4e6eb;
   font-size: 20px;
 }
 
 .nav-link:hover {
-  color:   #1C1C1C;
+  color: #1c1c1c;
 }

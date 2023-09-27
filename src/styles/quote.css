@@ -1,18 +1,18 @@
 .loading {
-  color: #E4E6EB;
+  color: #e4e6eb;
   text-align: center;
   justify-content: center;
   margin: 200px 70px 20px 70px;
   font-size: 20px;
-
   font-weight: bold;
+  text-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
 .quote {
-  color: #E4E6EB;
+  color: #e4e6eb;
   text-align: center;
   justify-content: center;
   margin: auto;
-  margin: 20%;
+  margin: 18%;
   font-size: 20px;
 }
