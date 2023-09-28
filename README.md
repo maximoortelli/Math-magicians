@@ -96,7 +96,7 @@ It is a Single Page App (SPA) that allows users to:
 - <a href="https://math-magicians-ak5t.onrender.com/quote">Click Here</a> to see the live demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
----
+
 
 <!-- GETTING STARTED -->
 
