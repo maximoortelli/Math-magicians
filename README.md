@@ -15,6 +15,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -88,7 +89,12 @@ It is a Single Page App (SPA) that allows users to:
 - **Gitflow**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
+## 🚀 Live Demo <a name="live-demo"></a>
 
+- <a href="https://math-magicians-ak5t.onrender.com/quote">Click Here</a> to see the live demo
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 
 <!-- GETTING STARTED -->
